@@ -1,0 +1,5 @@
+    function changeColor() {
+    var persName = document.getElementsByClassName(persName);
+        document.body.style.color = "red";
+        return false;
+    }
